@@ -2,9 +2,14 @@
 
 
 
-### My Signature 
+### My Signature (By Machine Learning + AI where we so deep in binary)
 
-![image](https://github.com/H0llyW00dzZ/H0llyW00dzZ/assets/17626300/d1b09be2-7827-4ad3-bd23-d5f11e9b7829)
+$$
+\sum_{i=1}^{n} x_i \cdot \text{H0llyW00dzZ}_{i=1}^{tm} x_i + E=mc^2 + \begin{bmatrix} 0 & 1 & 0 & 0 \\
+1 & 0 & 1 & 0 \\
+0 & 1 & 0 & 1 \\
+0 & 0 & 1 & 0 \end{bmatrix}
+$$
 
 
 
