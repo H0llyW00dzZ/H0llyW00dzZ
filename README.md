@@ -16,8 +16,12 @@ $$
   <img src="https://i.imgur.com/weFCodK.png" alt="Go Touring">
 </p>
 
-
-
+<p align="center">
+⚡ Fun fact
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/nlq7aZ7.jpg" alt="Meme Pic of the day">
+</p>
 
 
 <!--
