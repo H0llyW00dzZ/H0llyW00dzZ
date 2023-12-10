@@ -25,6 +25,9 @@ $$
 <p align="center">
   <img src="https://i.imgur.com/36GHpQ4.jpg" alt="Another Meme Pic of the day">
 </p>
+<p align="center">
+  <img src="https://i.imgur.com/g2Vlt1u.jpg" alt="Another Meme Pic of the day">
+</p>
 
 
 <!--
