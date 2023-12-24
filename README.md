@@ -19,6 +19,16 @@ $$
 <p align="center">
 Go Play Ground
   - https://go.dev/play/p/TwxzrQuMsAa
+  
+</p>
+<p align="center">
+  
+> [!TIP]
+> When writing in Go:
+
+- Prioritize error handling first before structuring logs.
+- Strive for simplicity in each function (aim for a cyclomatic complexity under 5 to demonstrate expertise); simplicity is a sign of Go programming mastery.
+
 </p>
 
 
