@@ -18,7 +18,9 @@ $$
   </p>
 <p align="center">
 Go Play Ground
-  - https://go.dev/play/p/TwxzrQuMsAa
+  
+  - [CRUD Simulation](https://go.dev/play/p/TwxzrQuMsAa)
+  - [CRUD Simulation Dependency Injection (DI)](https://go.dev/play/p/_9OvbLFoZc9)
   
 </p>
 <p align="center">
