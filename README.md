@@ -21,6 +21,7 @@ Go Play Ground
   
   - [CRUD Simulation](https://go.dev/play/p/TwxzrQuMsAa)
   - [CRUD Simulation Dependency Injection (DI)](https://go.dev/play/p/_9OvbLFoZc9)
+  - [Simplicity Simulation file system in-memory](https://go.dev/play/p/jdXwwfBHifz)
   
 </p>
 <p align="center">
