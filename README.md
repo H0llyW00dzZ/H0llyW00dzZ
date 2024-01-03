@@ -53,6 +53,9 @@ Go Play Ground
 <p align="center">
   <img src="https://i.imgur.com/oUmrbsy.jpg" alt="Another Meme Pic of the day">
 </p>
+<p align="center">
+  <img src="https://i.imgur.com/Tb9hIgb.jpg" alt="Another Meme Pic of the day">
+</p>
 
 
 <!--
