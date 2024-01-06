@@ -48,7 +48,7 @@ Go Play Ground
 - Keep maximum of cyclomatic complexity as `10` unless you are expert then aim cyclomatic complexity under `5`
 
 > [!NOTE]
-> It is important to keep the cyclomatic complexity to a maximum of `10` or lower (ideally under `5`). This is because, in `Go`, unlike `Python` (e.g, so many `if if if if`), functions with a complexity under `10` are more likely to be reusable. This not only aids in `testing` but also enhances `human + machine readability` and `bug-free`.
+> It is important to keep the cyclomatic complexity to a maximum of `10` or lower (ideally under `5`). This is because, in `Go`, unlike `Python` which may tolerate complex conditional logic (e.g., multiple nested `if` statements which is bad), functions with a complexity under `10` are more likely to be `reusable`. This not only aids in `testing` but also enhances `human + machine readability` and `bug-free`.
 
 
 </p>
