@@ -38,6 +38,8 @@ Go Play Ground
   
 </p>
 <p align="center">
+
+  <img src="https://i.imgur.com/PxjZ0Dz.png" alt="gopher" />
   
 > [!TIP]
 > When writing in Go:
@@ -51,7 +53,7 @@ Go Play Ground
 > [!TIP]
 > Another tips, this most important when you are writing in `go` witthen `cyclomatic complexity under 5`, especialy when you wanted to push in `github` for `repository`
 
-- Ignore Go test files by adding them to `.gitignore`.
+- Ignore Go test files (e.g, `yourfunction_test.go`) by adding them to `.gitignore`.
 
 Because, just think again, why you have to push include `go` code test files when `cyclomatic complexity` are under `5` ? so be smart `cyclomatic complexity under 5` you are `go` mastery.
 
