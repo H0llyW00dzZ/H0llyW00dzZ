@@ -33,6 +33,7 @@ Go Play Ground
   - `go doc`
   - `go fmt`
   - `go vet`
+  - `gocyclo`
 
 
 ### All these tools are excellent and can help create high-quality Go code with minimal complexity.
