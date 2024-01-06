@@ -23,17 +23,15 @@ Go Play Ground
   - [CRUD Simulation Dependency Injection (DI)](https://go.dev/play/p/_9OvbLFoZc9)
   - [Simplicity Simulation file system in-memory](https://go.dev/play/p/jdXwwfBHifz)
 
-### My Go tools include:
+### My Go Toolkit:
 
-  - `gotoolchain auto`
-  - `golint`
-  - `gopls`
-  - `deadcode`
-  - `gotests`
-  - `go doc`
-  - `go fmt`
-  - `go vet`
-  - `gocyclo`
+- `gotoolchain auto`: Automated management of Go tools.
+- `golint` & `gopls`: Essential for code linting and editor integration.
+- `deadcode`: Removes unused code to maintain a clean codebase.
+- `gotests`: Automates the generation of test cases.
+- `go doc` & `go fmt`: Ensures consistent documentation and code formatting.
+- `go vet`: Provides in-depth code analysis.
+- `gocyclo`: Measures and aims to reduce cyclomatic complexity.
 
 
 ### All these tools are excellent and can help create high-quality Go code with minimal complexity.
@@ -44,12 +42,14 @@ Go Play Ground
 > [!TIP]
 > When writing in Go:
 
+**Coding Philosophy:**
 - Prioritize error handling first before structuring logs.
 - Strive for simplicity in each function (aim for a cyclomatic complexity under 5 to demonstrate expertise); simplicity is a sign of Go programming mastery.
 - Keep maximum of cyclomatic complexity as `10` unless you are expert then aim cyclomatic complexity under `5`
+- Emphasizing reusable code encourages better testing practices, enhances readability for `human` and `machines`, and `minimizes bugs (bug-free)`.
 
 > [!NOTE]
-> It is important to keep the cyclomatic complexity to a maximum of `10` or lower (ideally under `5`). This is because, in `Go`, unlike `Python` which may tolerate complex conditional logic (e.g., multiple nested `if` statements which is bad), functions with a complexity under `10` are more likely to be `reusable`. This not only aids in `testing` but also enhances `human + machine readability` and `bug-free`.
+> It is important to keep the cyclomatic complexity to a maximum of `10` or lower (ideally under `5`). This is because, in `Go`, unlike `Python` which may tolerate complex conditional logic (e.g., multiple nested `if` statements which is bad), functions with a complexity under `10` are more likely to be `reusable`. This not only aids in `testing` but also enhances `human + machine readability` and `minimizes bugs (bug-free)`.
 
 
 </p>
