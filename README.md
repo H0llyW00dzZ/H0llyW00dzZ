@@ -22,6 +22,19 @@ Go Play Ground
   - [CRUD Simulation](https://go.dev/play/p/TwxzrQuMsAa)
   - [CRUD Simulation Dependency Injection (DI)](https://go.dev/play/p/_9OvbLFoZc9)
   - [Simplicity Simulation file system in-memory](https://go.dev/play/p/jdXwwfBHifz)
+
+My Go tools include:
+
+  - `gotoolchain auto`
+  - `golint`
+  - `gopls`
+  - `deadcode`
+  - `gotests`
+  - `go doc`
+  - `go fmt`
+
+
+All these tools are excellent and can help create high-quality Go code with minimal complexity.
   
 </p>
 <p align="center">
@@ -31,6 +44,7 @@ Go Play Ground
 
 - Prioritize error handling first before structuring logs.
 - Strive for simplicity in each function (aim for a cyclomatic complexity under 5 to demonstrate expertise); simplicity is a sign of Go programming mastery.
+- Keep maximum of cyclomatic complexity as `10` unless you are expert then aim cyclomatic complexity under `5`
 
 </p>
 
