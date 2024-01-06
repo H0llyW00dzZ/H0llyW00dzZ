@@ -23,7 +23,7 @@ Go Play Ground
   - [CRUD Simulation Dependency Injection (DI)](https://go.dev/play/p/_9OvbLFoZc9)
   - [Simplicity Simulation file system in-memory](https://go.dev/play/p/jdXwwfBHifz)
 
-My Go tools include:
+### My Go tools include:
 
   - `gotoolchain auto`
   - `golint`
@@ -32,9 +32,10 @@ My Go tools include:
   - `gotests`
   - `go doc`
   - `go fmt`
+  - `go vet`
 
 
-All these tools are excellent and can help create high-quality Go code with minimal complexity.
+### All these tools are excellent and can help create high-quality Go code with minimal complexity.
   
 </p>
 <p align="center">
@@ -47,6 +48,7 @@ All these tools are excellent and can help create high-quality Go code with mini
 - Keep maximum of cyclomatic complexity as `10` unless you are expert then aim cyclomatic complexity under `5`
 
 </p>
+
 
 <p align="center">
 Github Unwrapped
