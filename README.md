@@ -48,6 +48,13 @@ Go Play Ground
 - Keep maximum of cyclomatic complexity as `10` unless you are expert then aim cyclomatic complexity under `5`
 - Emphasizing reusable code encourages better testing practices, enhances readability for `human` and `machines`, and `minimizes bugs (bug-free)`.
 
+> [!TIP]
+> Another tips, this most important when you are writing in `go` witthen `cyclomatic complexity under 5`, especialy when you wanted to push in `github` for `repository`
+
+- Ignore Go test files by adding them to `.gitignore`.
+
+Because, just think again, why you have to push include `go` code test files when `cyclomatic complexity` are under `5` ? so be smart `cyclomatic complexity under 5` you are `go` mastery.
+
 > [!NOTE]
 > It is important to keep the cyclomatic complexity to a maximum of `10` or lower (ideally under `5`). This is because, in `Go`, unlike `Python` which may tolerate complex conditional logic (e.g., multiple nested `if` statements which is bad), functions with a complexity under `10` are more likely to be `reusable`. This not only aids in `testing` but also enhances `human + machine readability` and `minimizes bugs (bug-free)`.
 
