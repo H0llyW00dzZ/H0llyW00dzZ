@@ -32,6 +32,7 @@ Go Play Ground
 - `go doc` & `go fmt`: Ensures consistent documentation and code formatting.
 - `go vet`: Provides in-depth code analysis.
 - `gocyclo`: Measures and aims to reduce cyclomatic complexity.
+- `pprof`: A powerful profiling tool for measuring and visualizing the performance characteristics of Go programs, particularly adept at identifying resource-intensive operations.
 
 
 ### All these tools are excellent and can help create high-quality Go code with minimal complexity.
