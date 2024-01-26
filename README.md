@@ -36,7 +36,7 @@ Go Play Ground
 
 ### My Git:
 
-- `Git Kraken`
+- `GitKraken`
 - `GIthub Desktop`
 
 ### All these tools are excellent and can help create high-quality Go code with minimal complexity.
