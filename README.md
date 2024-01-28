@@ -12,6 +12,12 @@ $$
 0 & 0 & 1 & 0 \end{bmatrix}
 $$
 
+### My Spotify playlist:
+
+ - [Rebellion Rose - Partai Anarki](https://open.spotify.com/album/1gB7xG5IKG2pv0DdFZ1aIS?si=AcmmNuCiRBOJBysmUH0Beg)
+ - [Rebellion Rose - New Album (Latest)](https://open.spotify.com/album/3pqVvom4Ym7b0bOtbLlhGm?si=LKeuSwgcROiWPDdPjAjsIA)
+
+---
 
 <p align="center">
   <img src="https://i.imgur.com/weFCodK.png" alt="Go Touring">
