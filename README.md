@@ -49,7 +49,7 @@ Go Play Ground
 
 ### VScode Theme:
 
-- [`MoonLight`](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
+- [`Moonlight`](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
 
 ---
 
