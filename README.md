@@ -19,6 +19,17 @@ $$
 
 ---
 
+### My Git:
+
+- `GitKraken`
+- `GIthub Desktop`
+
+### VScode Theme:
+
+- [`Moonlight`](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
+
+---
+
 <p align="center">
   <img src="https://i.imgur.com/weFCodK.png" alt="Go Touring">
   </p>
@@ -41,15 +52,6 @@ Go Play Ground
 - `pprof`: A powerful profiling tool for measuring and visualizing the performance characteristics of Go programs, particularly adept at identifying resource-intensive operations.
 
 ### All these tools are excellent and can help create high-quality Go code with minimal complexity.
-
-### My Git:
-
-- `GitKraken`
-- `GIthub Desktop`
-
-### VScode Theme:
-
-- [`Moonlight`](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
 
 ---
 
