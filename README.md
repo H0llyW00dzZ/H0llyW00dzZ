@@ -65,9 +65,15 @@ Go Play Ground
 
 **Coding Philosophy:**
 - Prioritize error handling first before structuring logs.
-- Strive for simplicity in each function (aim for a cyclomatic complexity under 5 to demonstrate expertise); simplicity is a sign of Go programming mastery.
-- Keep maximum of cyclomatic complexity as `10` unless you are expert then aim cyclomatic complexity under `5`
-- Emphasizing reusable code encourages better testing practices, enhances readability for `human` and `machines`, and `minimizes bugs (bug-free)`.
+- Strive for simplicity in each function, aiming for a cyclomatic complexity under 5 as a sign of Go programming expertise.
+- As a general rule, maintain a maximum cyclomatic complexity of 10. If you have advanced expertise, aim for a cyclomatic complexity under 5.
+- Emphasize reusable code as it encourages better testing practices, enhances readability for both `humans` and `machines`, and aids in minimizing bugs for more reliable code.
+- Utilize constants in Go as a minimalist approach to avoid the pitfalls of stupid hard coding values.
+
+**By adhering to these principles, your Go code will stand out as superior when compared to others.**
+
+For example, even when using other packages, you'll find that your own package, built upon these principles, is superior. It will be less complex, have fewer bugs, and cause fewer panics compared to other packages that may be unnecessarily complex or prone to issues.
+
 
 > [!TIP]
 > Another tips, this most important when you are writing in `go` witthen `cyclomatic complexity under 5`, especialy when you wanted to push in `github` for `repository`
