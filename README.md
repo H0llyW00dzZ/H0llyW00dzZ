@@ -107,6 +107,12 @@ https://github.com/H0llyW00dzZ/H0llyW00dzZ/assets/17626300/edaa46a1-64e8-45c9-a8
 
 ---
 
+---
+  
+***Did You Know?*** If your code is overly stupid complex, it could indicate a need for improvement in your development skills.
+
+---
+
 </p>
 <p align="center">
   <img src="https://i.imgur.com/nlq7aZ7.jpg" alt="Meme Pic of the day">
