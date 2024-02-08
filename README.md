@@ -106,8 +106,6 @@ https://github.com/H0llyW00dzZ/H0llyW00dzZ/assets/17626300/edaa46a1-64e8-45c9-a8
 ***Did You Know?*** If your `Go` code resembles a jungle of `if` statements (think 10+ nested layers – a big no-no!), it's less `Go` and more `Stop-and-ask-for-directions`. Flatten those conditionals and let your code run as smoothly as a greased `gopher` on a slip 'n slide!
 
 ---
-
----
   
 ***Did You Know?*** If your code is overly stupid complex, it could indicate a need for improvement in your development skills.
 
