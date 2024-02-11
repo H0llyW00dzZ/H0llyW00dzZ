@@ -16,6 +16,12 @@ $$
 
  - [Rebellion Rose - Partai Anarki](https://open.spotify.com/album/1gB7xG5IKG2pv0DdFZ1aIS?si=AcmmNuCiRBOJBysmUH0Beg)
  - [Rebellion Rose - New Album (Latest)](https://open.spotify.com/album/3pqVvom4Ym7b0bOtbLlhGm?si=LKeuSwgcROiWPDdPjAjsIA)
+ - [Social Distortion - Sex, Love And Rock 'N' Roll](https://open.spotify.com/album/2vcUpOWWG4txJt0ptnQlWV?si=8UMQhIsuRNWJAqmOQLBhAQ)
+ - [Social Distortion - 1990](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS?si=UFoilqGnTFO9hi1l7w71kw)
+ - [Social Distortion - Hard Times And Nursery Rhymes (Deluxe Edition)](https://open.spotify.com/album/0HQyWxluYZTbQN22MAPNiK?si=iC55uN0zTNqZf-BUBV541Q)
+
+> [!NOTE]
+> I write code while listening to these tracks.
 
 ---
 
