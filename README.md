@@ -25,6 +25,16 @@ $$
 
 ---
 
+### My Main Programming Language:
+
+#### Backend:
+
+- [`Go`](https://go.dev)
+
+#### Frontend:
+
+- [`TypeScript`](https://www.typescriptlang.org)
+
 ### My Git:
 
 - `GitKraken`
