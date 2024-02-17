@@ -27,11 +27,11 @@ $$
 
 ### My Main Programming Language:
 
-#### Backend:
+#### Systems:
 
 - [`Go`](https://go.dev)
 
-#### Frontend:
+#### Frontend/Web Dev:
 
 - [`TypeScript`](https://www.typescriptlang.org)
 
