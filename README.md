@@ -29,11 +29,11 @@ $$
 
 #### Systems:
 
-- [`Go`](https://go.dev)
+- [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
 
-#### Frontend/Web Dev:
+#### Frontend/Web Development:
 
-- [`TypeScript`](https://www.typescriptlang.org)
+- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
 ### My Git:
 
