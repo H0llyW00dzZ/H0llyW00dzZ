@@ -40,6 +40,10 @@ $$
 - `GitKraken`
 - `GIthub Desktop`
 
+### Git Roll Stats:
+
+- [`Exemplary Developer`](https://gitroll.io/profile/uYvuUyJ4BaOdX6YmKh1Anj0qRfIt1)
+
 ### VScode Theme:
 
 - [`Moonlight`](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
