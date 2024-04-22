@@ -48,6 +48,10 @@ $$
 
 - [`Moonlight`](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
 
+### My GPG Key:
+
+- [`Github Server`](https://github.com/H0llyW00dzZ.gpg)
+
 ---
 
 <p align="center">
