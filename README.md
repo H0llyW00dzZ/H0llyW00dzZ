@@ -212,13 +212,11 @@ https://github.com/H0llyW00dzZ/H0llyW00dzZ/assets/17626300/edaa46a1-64e8-45c9-a8
   <img src="https://pbs.twimg.com/media/GNi2j4VX0AAqObU?format=jpg&name=small" alt="Another Meme Pic of the day">
 </p>
 
-<div align="center">
-  <video width="640" height="350" controls>
-    <source src="https://i.imgur.com/oyoz2Hg.mp4" type="video/mp4" alt="Another Meme Pic of the day">
-    Your browser does not support the video tag.
-  </video>
-</div>
+<p align="center">
+Another Meme Pic of the day
 
+https://github.com/user-attachments/assets/974b2f3c-93ab-46b6-9724-91dabd85f819
+</p>
 
 <!--
 **H0llyW00dzZ/H0llyW00dzZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
