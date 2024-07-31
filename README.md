@@ -213,7 +213,7 @@ https://github.com/H0llyW00dzZ/H0llyW00dzZ/assets/17626300/edaa46a1-64e8-45c9-a8
 </p>
 
 <p align="center">
-Another Meme Pic of the day
+Another Meme of the day
 
 https://github.com/user-attachments/assets/974b2f3c-93ab-46b6-9724-91dabd85f819
 </p>
