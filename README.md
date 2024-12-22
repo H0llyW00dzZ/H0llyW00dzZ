@@ -39,6 +39,7 @@ $$
 
 - `GitKraken`
 - `GIthub Desktop`
+- `Gitea`
 
 ### Git Roll Stats:
 
@@ -51,6 +52,7 @@ $$
 ### My GPG Key:
 
 - [`Github Server`](https://github.com/H0llyW00dzZ.gpg)
+- [`Gitea Self-Host`](https://git.b0zal.io/H0llyW00dzZ.gpg)
 
 ---
 
