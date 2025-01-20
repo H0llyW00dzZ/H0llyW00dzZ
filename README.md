@@ -10,7 +10,7 @@
 
 - [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
-### Scripting:
+#### Scripting:
 
 - [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 - [![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat&logo=make&logoColor=white)](https://www.gnu.org/software/make/)
