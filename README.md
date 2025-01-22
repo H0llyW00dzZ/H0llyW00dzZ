@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### My Main Operating System:
+
+#### **Used for all tasks except gaming, which is on Windows:**
+
+- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org)
+
 ### My Main Programming Language:
 
 #### Systems:
