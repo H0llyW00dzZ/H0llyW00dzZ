@@ -25,7 +25,7 @@
 
 ### Deployment Tools:
 
-- [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+- [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) [![Skaffold](https://img.shields.io/badge/Skaffold-008BB9?style=flat&logo=skaffold&logoColor=white)](https://skaffold.dev)
 
 ### My Git:
 
