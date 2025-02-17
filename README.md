@@ -29,18 +29,18 @@
 
 ### My Git:
 
-- `Github`
-- `Gitea`
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com) 
+- [![Gitea](https://img.shields.io/badge/Gitea-609926?style=flat&logo=gitea&logoColor=white)](https://gitea.io)
 
 ### Git Roll Stats:
 
-- [`Exemplary Developer`](https://gitroll.io/profile/uYvuUyJ4BaOdX6YmKh1Anj0qRfIt1)
+- [![Exemplary Developer](https://img.shields.io/badge/GitRoll-Exemplary%20Developer-blue?style=flat&logo=git&logoColor=white)](https://gitroll.io/profile/uYvuUyJ4BaOdX6YmKh1Anj0qRfIt1)
 
-### VScode Theme:
+### VSCode Theme:
 
-- [`Moonlight`](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
+- [![Moonlight](https://img.shields.io/badge/VSCode%20Theme-Moonlight-1E1E1E?style=flat)](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
 
 ### My GPG Key:
 
-- [`Github Server`](https://github.com/H0llyW00dzZ.gpg)
-- [`Gitea Self-Host`](https://git.b0zal.io/H0llyW00dzZ.gpg)
+- [![GitHub Server](https://img.shields.io/badge/GPG%20Key-GitHub%20Server-181717?style=flat&logo=github&logoColor=white)](https://github.com/H0llyW00dzZ.gpg)
+- [![Gitea Self-Host](https://img.shields.io/badge/GPG%20Key-Gitea%20Self--Host-609926?style=flat&logo=gitea&logoColor=white)](https://git.b0zal.io/H0llyW00dzZ.gpg)
