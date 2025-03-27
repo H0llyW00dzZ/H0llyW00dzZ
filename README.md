@@ -23,6 +23,12 @@
 
 - [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) [![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat&logo=make&logoColor=white)](https://www.gnu.org/software/make/)
 
+### Other Programming Languages:
+
+#### Still Learning:
+
+- [![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org)
+
 ### Deployment Tools:
 
 - [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) [![Skaffold](https://img.shields.io/badge/Skaffold-008BB9?style=flat&logo=skaffold&logoColor=white)](https://skaffold.dev)
