@@ -9,7 +9,7 @@
 > [!NOTE]
 > I use Linux for its robust performance and flexibility, while gaming is reserved for Windows due to compatibility.
 
-### My Main Programming Language:
+### My Main Programming Languages:
 
 #### Systems:
 
