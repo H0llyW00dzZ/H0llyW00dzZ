@@ -51,4 +51,3 @@
 
 - [![GitHub Server](https://img.shields.io/badge/GPG%20Key-GitHub%20Server-181717?style=flat&logo=gnuprivacyguard&logoColor=white)](https://github.com/H0llyW00dzZ.gpg)
 - [![GitLab Server](https://img.shields.io/badge/GPG%20Key-GitLab%20Server-FC6D26?style=flat&logo=gnuprivacyguard&logoColor=white)](https://gitlab.com/H0llyW00dzZ.gpg)
-- [![Gitea Self-Host](https://img.shields.io/badge/GPG%20Key-Gitea%20Self--Host-609926?style=flat&logo=gnuprivacyguard&logoColor=white)](https://git.b0zal.io/H0llyW00dzZ.gpg)
