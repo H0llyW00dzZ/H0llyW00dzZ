@@ -40,7 +40,7 @@ I'm currently learning **Rust** and exploring its ecosystem.
 
 ### Git Roll Stats
 
-- [![Senior-level Developer](https://img.shields.io/badge/GitRoll-Exemplary%20Developer-blue?style=flat&logo=git&logoColor=white)](https://gitroll.io/profile/uYvuUyJ4BaOdX6YmKh1Anj0qRfIt1)
+- [![Senior-level Developer](https://img.shields.io/badge/GitRoll-Senior%20Developer-blue?style=flat&logo=git&logoColor=white)](https://gitroll.io/profile/uYvuUyJ4BaOdX6YmKh1Anj0qRfIt1)
 
 ### VSCode Theme
 
