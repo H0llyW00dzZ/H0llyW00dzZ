@@ -54,3 +54,21 @@ You can find my GPG key on:
 
 - [![GitHub Server](https://img.shields.io/badge/GPG%20Key-GitHub%20Server-181717?style=flat&logo=gnuprivacyguard&logoColor=white)](https://github.com/H0llyW00dzZ.gpg)
 - [![GitLab Server](https://img.shields.io/badge/GPG%20Key-GitLab%20Server-FC6D26?style=flat&logo=gnuprivacyguard&logoColor=white)](https://gitlab.com/H0llyW00dzZ.gpg)
+
+> [!NOTE]
+> **My Primary GPG Key Information (Currently Active):**
+> 
+> ```
+> pub   ed25519 2024-04-14 [SC]
+>       95F9A1D43F57344AB88BFFFEA0F9424A7002343A
+> uid   [ultimate] H0llyW00dzZ <h0llyw00dzz@pm.me>
+> sub   cv25519 2024-04-14 [E]
+> ```
+> 
+> **Key Details:**
+> - **Primary Algorithm:** Ed25519 (EdDSA)
+> - **Subkey Algorithm:** Cv25519 (ECDH)
+> - **Fingerprint:** `95F9A1D43F57344AB88BFFFEA0F9424A7002343A`
+> - **Primary Capabilities:** Signing & Certification
+> - **Subkey Capabilities:** Encryption
+> - **Created:** April 14, 2024
