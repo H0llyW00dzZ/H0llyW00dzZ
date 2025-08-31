@@ -48,6 +48,10 @@ I'm using the **Moonlight** theme.
 
 - [![Moonlight](https://img.shields.io/badge/VSCode%20Theme-Moonlight-1E1E1E?style=flat)](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
 
+> [!NOTE]
+> The Moonlight theme significantly enhances my coding experience, thanks to its moon-inspired color scheme. Without it,
+> I struggle to read and understand code, but with it, I can write and comprehend code more efficiently.
+
 ### GPG Key
 
 You can find my GPG key on:
