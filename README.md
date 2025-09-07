@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### About me
+
+I primarily contribute to open source projects on GitHub, focusing on specific repositories that I use for particular projects and implementing interesting cryptographic-related features. Please note that if you see my commits in other repositories, these are contributions to existing projects, not my own projects.
+
 ### My Main Operating System
 
 **Distro:**
